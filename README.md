@@ -2,6 +2,7 @@
 
 This project was built as part of my learning journey with **FastAPI**.  
 It includes basic implementations of authentication, user management, and posting functionality using Python and the FastAPI framework.
+![image](https://github.com/user-attachments/assets/97e9c7cb-ec38-4d0f-b0b6-9197c8eafddd)
 
 ---
 
